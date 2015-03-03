@@ -1,0 +1,145 @@
+url|category
+tvn24.pl|info
+onet.pl|info
+wp.pl|info
+interia.pl|info
+mbank.pl|firma
+ingbank.pl|firma
+pkobp.pl|firma
+tvp.info|info
+aliorbank.pl/pl|firma
+pekao.com.pl|firma
+bzwbk.pl|firma
+getinbank.pl|firma
+bankmillennium.pl|firma
+raiffeisenpolbank.com|firma
+bgk.com.pl|firma
+wprost.pl|info
+tokfm.pl|info
+ideabank.pl|firma
+bnpparibas.pl|firma
+gazeta.pl|info
+rp.pl|info
+dziennik.pl|info
+rialto.pl|firma
+regent-warsaw.com|firma
+hotelmdm.com.pl|firma
+hotelediament.pl|firma
+hotelwarszawa.pl|firma
+sheraton.pl|firma
+radissonblu.pl/sobieski-warsaw|firma
+forumozwierzetach.pl/index.php?topic=2053.0|posty
+forum.muratordom.pl/showthread.php?74534-Pogadajmy-o-pierdo%C5%82ach|posty
+http://www.architektnaszpilkach.pl/|blog
+http://www.gardasiwspolnicy.blogspot.com/|blog
+http://isaveta.blogspot.com/|blog
+http://technologiasmaku.wordpress.com/|blog
+http://przebudowadomu.blogspot.com/|blog
+http://projektcacko.pl/|blog
+http://poczet-strachu.blogspot.com/|blog
+http://wlosymuszabycdlugie.blogspot.com/|blog
+http://1500kalorii.blogspot.co.uk/|blog
+http://solgaz.eu/|firma
+http://www.polcontact-warszawa.pl/|firma
+http://www.stylistka.pl/forum/temat/rozmowy-o-butach-temat-zbiorczy/21/|posty
+http://www.pelet.eu/|firma
+http://forum.gazeta.pl/forum/w,106,155639726,,Deweloper_Inwest_Plan_Lubiniecka_Dubienska.html?v=2|posty
+http://www.doktor-mama.pl/|blog
+http://grochowniepragapd.blox.pl/html|blog
+http://www.littlewood.pl/|blog
+http://zapytaj.onet.pl/Category/007,023/2,17924490,Jakie_znasz_popularne_fora_internetowe_oraz_grupy_dyskusyjne_w_ktorych_szczegolnie_duzo_jest_dziewczyn_i_kobiet.html|posty
+http://www.autocentrum.pl/forum/o-motoryzacji/zaostrzanie-kar-po-co-1999981619/|posty
+http://www.forum.obcasy.pl/viewtopic.php?f=36&t=15751|posty
+http://www.maluchy.pl/forum/Czy-brzuch-w-ciazy-bliniaczej-jest-wiekszy-od-pojedynczej-t49748.html|posty
+http://forum.cdaction.pl/index.php?showtopic=142024|posty
+http://forum.linux.pl/viewtopic.php?id=21617|posty
+http://forum.pclab.pl/topic/84178-Popularne-fora-komputerowe/|posty
+http://forum.muratordom.pl/showthread.php?144337-10-grzech%C3%B3w-g%C5%82%C3%B3wnych-projektowania-wn%C4%99trz/page64|posty
+http://forum.muratordom.pl/showthread.php?233312-tynki-ile-schna|posty
+http://www1.euro.dell.com/content/default.aspx?c=pl&l=pl&s=gen|firma
+http://www.canon.pl/|firma
+http://www.olprint.com.pl/|firma
+http://www.nikon.pl/pl_PL/|firma
+http://www.atlas.com.pl/|firma
+http://www.fmgroup.pl/|firma
+http://www.money.pl/ |info
+http://warszawa.naszemiasto.pl/ |info
+http://lublin.naszemiasto.pl/ |info
+http://wroclaw.naszemiasto.pl/ |info
+http://pulawy.naszemiasto.pl/ |info
+http://www.opoka.org.pl/0.1,index.html |info
+http://www.wiadomosci24.pl/ |info
+http://www.wroclaw.pl/ |info
+http://katowice.naszemiasto.pl/ |info
+http://www.podlasie24.pl/ |info
+http://www.orlen.pl/PL/Strony/default.aspx |firma
+http://www.pgnig.pl/ |firma
+http://www.pzu.pl/ |firma
+http://www.energa.pl/dla-domu/strona_glowna/dom |firma
+http://grupaazoty.com/ |firma
+http://www.enea.pl/ |firma
+http://www.jsw.pl/ |firma
+http://www.polkomtel.com.pl/ |firma
+http://www.neuca.pl/pl/ |firma
+http://synthosgroup.com/ |firma
+http://kochamdziwnekino.blogspot.com/ |blog
+http://okruchy.pl/ |blog
+http://mirror-of--soul.blogspot.com/  |blog
+http://music-keeps-alive.blogspot.com/  |blog
+http://vilejka.blog.pl/  |blog
+http://jackgraal.com/pl/ |blog
+http://madreksiazki.org/ |blog
+http://secret-books.blogspot.com/ |blog
+http://wiedzmanaorbicie.pl/ |blog
+http://najednokopyto.blog.pl/ |blog
+http://www.marudzenie.pl/ |blog
+http://watchtower-forum.pl/topic/86-wyglad-zewnetrzny-na-zebraniach/ |posty
+http://forum.benchmark.pl/topic/64181-temat-o-kartach-radeon-serii-7xxx-oraz-rx-2xx/ |posty
+http://www.bankier.pl/forum/pokaz-tresc?thread_id=3864423&strona=1 |posty
+http://eu.battle.net/d3/pl/forum/topic/12286978971 |posty
+http://www.e-papierosy-forum.pl/jak-sie-ma-moc-e-liquidu-do-mocy-analogowych-t2189.html |posty
+http://myapple.pl/forums/topic/252039-yosemite-na-starszych-obs%C5%82ugiwanych-komputerach/ |posty
+http://forum.o2.pl/temat.php?id_p=4929086 |posty
+http://www.bieganie.pl/forum/viewtopic.php?f=38&t=33468 |posty
+http://www.forum.subaru.pl/index.php?/topic/19-pytania-do-dyrekcji/ |posty
+http://www.forum.prawojazdy.com.pl/viewtopic.php?f=2&t=32605 |posty
+http://www.swiecie24.pl/|info
+http://warka24.pl/|info
+http://www.bogatynia.info.pl/|info
+http://www.legio24.pl/|info
+http://augustow24.pl/|info
+http://www.obiektyw.info/|info
+http://www.ozyrardow.pl/|info
+http://www.naszsrem.pl/|info
+http://www.portalprzemyski.pl/|info
+http://forumozwierzetach.pl/index.php?topic=1891.0|posty
+http://www.forumbudowlane.pl/vt/7882/0/jaki-dach|posty
+http://www.forumsamochodowe.pl/filtr-czastek-stalych-w-audi-a4-b7-2006r-vt42155.htm|posty
+http://forum.mazury.info.pl/viewtopic.php?t=10666 	|posty
+http://podroze-forum.pl/pod-namiot-w-polsce-t1521.html|posty
+http://www.skiforum.pl/topic/1011-nauka-jazdy-dzieci/|posty
+http://forum.wedkuje.pl/f,dobry-sklep-wedkarski-w-bydgoszczy,535559,0.html|posty
+http://www.forumrowerowe.org/topic/145624-powitania-do-nowych-forumowiczow-cz3/|posty
+http://paintball.info.pl/forum/viewtopic.php?t=21078&f=4|posty
+http://www.e-gory.pl/forum/viewtopic.php?f=7&t=4965|posty
+http://jacek-nowacki.net/o-mnie/ |domowa
+http://www.kamilwolczyk.com/|domowa
+http://baszczewski.pl/|domowa
+http://www.agaciesielska.pl/omnie.html|domowa
+http://davinfo.pl/o-mnie/|domowa
+http://www.dorotamiskiewicz.com/dla-nikogo-tekst.html|domowa
+http://maciejrajk.eu/o-mnie/|domowa
+http://www.beatapawlikowska.com/|domowa
+http://www.krzysztofkoziolek.pl/|domowa
+http://aspirujacypisarz.pl/|domowa
+http://www.lucjanwolanowski.com/|domowa
+http://www.andrzejrodan.pl/wywiady.htm|domowa
+http://czulymokiem.pl/o-mnie/|domowa
+http://www.wojot.pl/|domowa
+http://makijaz-okolicznosciowy.jimdo.com/o-mnie/|domowa
+http://pastelowamoda.blogspot.com/|domowa
+http://www.podlinski.net/|domowa
+http://www.cejrowski.com/|domowa
+http://www.marekkaminski.com/index1.php?p=m&id=3|domowa
+http://www.michalsitek.com/michal-sitek-about-pl/|domowa
+http://www.grzegorzbialik.com.pl/|domowa
